@@ -1,0 +1,763 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978677,
+          40.727124
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 2,
+        "Garden me": "11 BC Serenity Garden",
+        "Address": "626 East 11th Street",
+        "Size": 0.054,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Avenues B & C",
+        "Postcode": 10009,
+        "Census Tract": 28,
+        "BIN": 1000000,
+        "BBL": 1003930020,
+        "NTA": "Lower East Side",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947533,
+          40.796295
+        ]
+      },
+      "properties": {
+        "PropID": "M382",
+        "Boro": "M",
+        "Community Board": "M11",
+        "Council District": 9,
+        "Garden me": "110th Street Block Association",
+        "Address": "1651 Madison Avenue",
+        "Size": 0.043,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Harlem",
+        "Cross Streets": "Active",
+        "Postcode": 10029,
+        "Census Tract": 17402,
+        "BIN": 1000000,
+        "BBL": 1016160023,
+        "NTA": "East Harlem South",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.940376,
+          40.798976
+        ]
+      },
+      "properties": {
+        "PropID": "M331",
+        "Boro": "M",
+        "Community Board": "M11",
+        "Council District": 8,
+        "Garden me": "117th Street Community Garden",
+        "Address": "172 E 117th Street",
+        "Size": 0.08,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Harlem",
+        "Cross Streets": "Active",
+        "Postcode": 10035,
+        "Census Tract": 182,
+        "BIN": 1089914,
+        "BBL": 1016440046,
+        "NTA": "East Harlem North",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983327,
+          40.729079
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 2,
+        "Garden me": "11th Street Community Garden",
+        "Address": "422 East 11th Street",
+        "Size": 0.054,
+        "Jurisdiction": "TPL",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "1st Avenue & Avenue A",
+        "Postcode": 10009,
+        "Census Tract": 34,
+        "BIN": 1000000,
+        "BBL": 1004380019,
+        "NTA": "East Village",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.885018,
+          40.847216
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "X",
+        "Community Board": "X06",
+        "Council District": 15,
+        "Garden me": "2120 Mapes Avenue HDFC",
+        "Address": "2124 Mapes Avenue",
+        "Size": 0.151,
+        "Jurisdiction": "TPL",
+        "Neighborhoodme": "",
+        "Cross Streets": "At E. 181st Street",
+        "Postcode": 10460,
+        "Census Tract": 36501,
+        "BIN": 2000000,
+        "BBL": 2031110007,
+        "NTA": "East Tremont",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980995,
+          40.723433
+        ]
+      },
+      "properties": {
+        "PropID": "M313A",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 1,
+        "Garden me": "5th Street Slope Garden Club",
+        "Address": "626-27 East 5th Street",
+        "Size": 0.031,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Active",
+        "Postcode": 10009,
+        "Census Tract": 2601,
+        "BIN": 1075625,
+        "BBL": 1003870020,
+        "NTA": "Lower East Side",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987554,
+          40.664706
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "B",
+        "Community Board": "B07",
+        "Council District": 38,
+        "Garden me": "6/15 Green",
+        "Address": "274 15th Street",
+        "Size": 0.287,
+        "Jurisdiction": "TPL",
+        "Neighborhoodme": "Park Slope",
+        "Cross Streets": "corner of 6th Avenue & 15th Street",
+        "Postcode": 11215,
+        "Census Tract": 141,
+        "BIN": 3000000,
+        "BBL": 3010480034,
+        "NTA": "Park Slope-Gowanus",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980569,
+          40.724036
+        ]
+      },
+      "properties": {
+        "PropID": "M313",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 1,
+        "Garden me": "6BC Botanical Garden",
+        "Address": "624-628 E 6th Street",
+        "Size": 0.171,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Active",
+        "Postcode": 10009,
+        "Census Tract": 2601,
+        "BIN": 1000000,
+        "BBL": 1003870121,
+        "NTA": "Lower East Side",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981986,
+          40.724031
+        ]
+      },
+      "properties": {
+        "PropID": "M293",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 2,
+        "Garden me": "6th Street & Avenue B Garden",
+        "Address": "78-92 Avenue B",
+        "Size": 0.315,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Active",
+        "Postcode": 10009,
+        "Census Tract": 32,
+        "BIN": 1000000,
+        "BBL": 1004010039,
+        "NTA": "East Village",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.915121,
+          40.683541
+        ]
+      },
+      "properties": {
+        "PropID": "B438",
+        "Boro": "B",
+        "Community Board": "B16",
+        "Council District": 41,
+        "Garden me": "700 Decatur Street Block Association",
+        "Address": "700 Decatur Street",
+        "Size": 0.114,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "Bed-Stuy",
+        "Cross Streets": "Active",
+        "Postcode": 11233,
+        "Census Tract": 373,
+        "BIN": 3040656,
+        "BBL": 3015060032,
+        "NTA": "Ocean Hill",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91645,
+          40.823065
+        ]
+      },
+      "properties": {
+        "PropID": "X351",
+        "Boro": "X",
+        "Community Board": "X03",
+        "Council District": 17,
+        "Garden me": "811 Family and Friends Association",
+        "Address": "809 Courtlandt Avenue",
+        "Size": 0.063,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "",
+        "Cross Streets": "Active",
+        "Postcode": 10451,
+        "Census Tract": 69,
+        "BIN": 2000000,
+        "BBL": 2024180022,
+        "NTA": "Melrose South-Mott Haven North",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87122,
+          40.756409
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "PropID": "Q495",
+        "Boro": "Q",
+        "Community Board": "Q03",
+        "Council District": 21,
+        "Garden me": "97th Street Block Association",
+        "Address": "33-28 97th Street",
+        "Size": 0.177,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "Coro",
+        "Cross Streets": "Active",
+        "Postcode": 11368,
+        "Census Tract": 375,
+        "BIN": 4000000,
+        "BBL": 4017110021,
+        "NTA": "North Coro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977776,
+          40.725211
+        ]
+      },
+      "properties": {
+        "PropID": "M312",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 2,
+        "Garden me": "9th Street Community Garden & Park",
+        "Address": "703 East 9th Street",
+        "Size": 0.39,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Active",
+        "Postcode": 10009,
+        "Census Tract": 28,
+        "BIN": 1000000,
+        "BBL": 1003790063,
+        "NTA": "Lower East Side",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.913329,
+          40.82513
+        ]
+      },
+      "properties": {
+        "PropID": "X350",
+        "Boro": "X",
+        "Community Board": "X03",
+        "Council District": 16,
+        "Garden me": "A. Badillo Community Rose Garden",
+        "Address": "924 Melrose Avenue",
+        "Size": 0.064,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "Melrose",
+        "Cross Streets": "Active",
+        "Postcode": 10451,
+        "Census Tract": 141,
+        "BIN": 2000000,
+        "BBL": 2023840009,
+        "NTA": "Morrisania-Melrose",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.906203,
+          40.659528
+        ]
+      },
+      "properties": {
+        "PropID": "B533",
+        "Boro": "B",
+        "Community Board": "B16",
+        "Council District": null,
+        "Garden me": "Abib Newborn",
+        "Address": "495 Osborn Street",
+        "Size": 0.249,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East New York",
+        "Cross Streets": "Active",
+        "Postcode": 11212,
+        "Census Tract": 920,
+        "BIN": 3000000,
+        "BBL": 3036170013,
+        "NTA": "Brownsville",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99132,
+          40.725347
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 2,
+        "Garden me": "Alberts Garden",
+        "Address": "16-18 East 2nd Street",
+        "Size": 0.07,
+        "Jurisdiction": "TPL",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Bowery & 2nd Avenue",
+        "Postcode": 10003,
+        "Census Tract": 3602,
+        "BIN": 1000000,
+        "BBL": 1004580041,
+        "NTA": "East Village",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.946088,
+          40.694344
+        ]
+      },
+      "properties": {
+        "PropID": "B439",
+        "Boro": "B",
+        "Community Board": "B03",
+        "Council District": 34,
+        "Garden me": "All People's Church of the Apostolic Faith Community Garden",
+        "Address": "149 Tompkins Avenue",
+        "Size": 0.064,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "Bed-Stuy",
+        "Cross Streets": "Active",
+        "Postcode": 11206,
+        "Census Tract": 25901,
+        "BIN": 3000000,
+        "BBL": 3017600001,
+        "NTA": "Bedford",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979916,
+          40.721396
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 2,
+        "Garden me": "All Peoples Garden, Inc.",
+        "Address": "293-295 East 3rd Street",
+        "Size": 0.099,
+        "Jurisdiction": "TPL",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Avenues C & D",
+        "Postcode": 10009,
+        "Census Tract": 2601,
+        "BIN": 1000000,
+        "BBL": 1003730059,
+        "NTA": "Lower East Side",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003548,
+          40.683251
+        ]
+      },
+      "properties": {
+        "PropID": "B409",
+        "Boro": "B",
+        "Community Board": "B06",
+        "Council District": 39,
+        "Garden me": "Amazing Garden",
+        "Address": "261-265 Columbia Street",
+        "Size": 0.103,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "Red Hook",
+        "Cross Streets": "Active",
+        "Postcode": 11231,
+        "Census Tract": 51,
+        "BIN": 3000000,
+        "BBL": 3003480003,
+        "NTA": "Carroll Gardens-Columbia Street-Red Hook",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.913605,
+          40.665633
+        ]
+      },
+      "properties": {
+        "PropID": "B440",
+        "Boro": "B",
+        "Community Board": "B16",
+        "Council District": 41,
+        "Garden me": "Amboy St. Garden",
+        "Address": "199 Amboy Street",
+        "Size": 0.391,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "",
+        "Cross Streets": "Active",
+        "Postcode": 11212,
+        "Census Tract": 902,
+        "BIN": 3081400,
+        "BBL": 3035400007,
+        "NTA": "Brownsville",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.946915,
+          40.693378
+        ]
+      },
+      "properties": {
+        "PropID": "B441",
+        "Boro": "B",
+        "Community Board": "B03",
+        "Council District": 36,
+        "Garden me": "American Heart",
+        "Address": "122 Hart Street",
+        "Size": 0.05,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "Bed-Stuy",
+        "Cross Streets": "Active",
+        "Postcode": 11206,
+        "Census Tract": 261,
+        "BIN": 3000000,
+        "BBL": 3017710029,
+        "NTA": "Bedford",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.885069,
+          40.83652
+        ]
+      },
+      "properties": {
+        "PropID": "X339",
+        "Boro": "X",
+        "Community Board": "X03",
+        "Council District": 16,
+        "Garden me": "Angie Lee-Gonzalez & Luis Gonzalez Garden",
+        "Address": "1768 Bryant Avenue",
+        "Size": 0.131,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "",
+        "Cross Streets": "Active",
+        "Postcode": 10460,
+        "Census Tract": 161,
+        "BIN": 2117995,
+        "BBL": 2029980170,
+        "NTA": "Croto Park East",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.901885,
+          40.852889
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "X",
+        "Community Board": "X05",
+        "Council District": 15,
+        "Garden me": "Anthony Avenue Garden",
+        "Address": "2078 Anthony Avenue",
+        "Size": 0.054,
+        "Jurisdiction": "TPL",
+        "Neighborhoodme": "",
+        "Cross Streets": "E. 180th Street & Burnside Avenue",
+        "Postcode": 10457,
+        "Census Tract": 381,
+        "BIN": 2000000,
+        "BBL": 2031560055,
+        "NTA": "Mount Hope",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.878795,
+          40.673772
+        ]
+      },
+      "properties": {
+        "PropID": "B443",
+        "Boro": "B",
+        "Community Board": "B05",
+        "Council District": 37,
+        "Garden me": "Atkins Gardeners",
+        "Address": "213 Atkins Avenue",
+        "Size": 0.068,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East New York",
+        "Cross Streets": "Active",
+        "Postcode": 11208,
+        "Census Tract": 1194,
+        "BIN": 3256563,
+        "BBL": 3040230006,
+        "NTA": "East New York",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990728,
+          40.72252
+        ]
+      },
+      "properties": {
+        "PropID": "",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 1,
+        "Garden me": "Auxiliary Services for High Schools @ P.S. 91",
+        "Address": "198 Forsyth Street",
+        "Size": 0.051,
+        "Jurisdiction": "DOE",
+        "Neighborhoodme": "Lower East Side",
+        "Cross Streets": "Stanton Street",
+        "Postcode": 10002,
+        "Census Tract": 3601,
+        "BIN": 1005626,
+        "BBL": 1004220072,
+        "NTA": "Chitown",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978864,
+          40.728307
+        ]
+      },
+      "properties": {
+        "PropID": "M342",
+        "Boro": "M",
+        "Community Board": "M03",
+        "Council District": 2,
+        "Garden me": "Avenue B Community Garden Association",
+        "Address": "200 Avenue B",
+        "Size": 0.05,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "East Village",
+        "Cross Streets": "Active",
+        "Postcode": 10009,
+        "Census Tract": 34,
+        "BIN": 1005220,
+        "BBL": 1004060037,
+        "NTA": "East Village",
+        "marker-symbol": "garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.792211,
+          40.683535
+        ]
+      },
+      "properties": {
+        "PropID": "Q486",
+        "Boro": "Q",
+        "Community Board": "Q12",
+        "Council District": 28,
+        "Garden me": "B.C.C.A. Mini-Park and Garden",
+        "Address": "150-14 115th Drive",
+        "Size": 0.092,
+        "Jurisdiction": "DPR",
+        "Neighborhoodme": "",
+        "Cross Streets": "Active",
+        "Postcode": 11434,
+        "Census Tract": 272,
+        "BIN": 4264367,
+        "BBL": 4121920014,
+        "NTA": "Baisley Park",
+        "marker-symbol": "garden"
+      }
+    }
+  ]
+}
